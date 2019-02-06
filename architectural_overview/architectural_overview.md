@@ -2,7 +2,7 @@
 The Architectural design of the final product is generally inspired by the microservice archictectural design philosophy, and also partially the client/server model. This is mostly due to the design constraints of the Electron framework, which in itself intends to act as a self-hosted client and server.
 
 ## Diagram
-[logo]: diagram.png "Architectural Diagram"
+![Diagram](diagram.png)
 
 ### Architecture: Backend
 The backend of the final product shall be constructed to act as a facilitator of pipeline executions and navigation. In order to fulfill these duties, the backend of the pipeline frontend will fulfill the following duties:
